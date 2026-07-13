@@ -2,18 +2,18 @@
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/0b964545-0218-4394-99e0-7f17b265fac2" />
 </h1>
-
+https://www.linkedin.com/in/krishhari521/
 
 <p>
         <img src="https://img.shields.io/badge/Sr.%20.NET%20Full%20Stack%20Developer%20-Blue?style=social&amp;logo=Company&amp;label=%F0%9F%8E%AD%20Role&amp;labelColor=Blue&amp;color=blue" alt="Static Badge">
         <br>
-        <a href="https://mail.google.com/mail/u/0/?fs=1&to=sndpkmr809@gmail.com&tf=cm"><img src="https://img.shields.io/badge/sndpkmr809%40gmail.com%20-firebrick?style=social&amp;logo=Gmail&amp;logoColor=firebrick&amp;label=Gmail&amp;labelColor=firebrick&amp;color=firebrick" alt="Static Badge"></a>
+        <a href="https://mail.google.com/mail/u/0/?fs=1&to=krishhari521.com&tf=cm"><img src="https://img.shields.io/badge/krishhari521%40gmail.com%20-firebrick?style=social&amp;logo=Gmail&amp;logoColor=firebrick&amp;label=Gmail&amp;labelColor=firebrick&amp;color=firebrick" alt="Static Badge"></a>
         <br>
-        <a href="https://wa.me/+919542181245"><img src="https://img.shields.io/badge/%2B91%209542181245-%20Blue?style=social&amp;logo=Whatsapp&amp;label=Phone&amp;labelColor=Green&amp;color=Green" alt="Static Badge"></a>
+        <a href="https://wa.me/+919488250916"><img src="https://img.shields.io/badge/%2B91%209488250916-%20Blue?style=social&amp;logo=Whatsapp&amp;label=Phone&amp;labelColor=Green&amp;color=Green" alt="Static Badge"></a>
         <br>
-        <a href="https://linkedin.com/in/sandeepkumar809"><img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fsandeepkumar809-red?style=social&amp;logo=LinkedIn&amp;logoColor=blue&amp;label=LinkedIn&amp;labelColor=blue&amp;color=blue" alt="Static Badge"></a>
+        <a href="https://www.linkedin.com/in/krishhari521"><img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fkrishhari521-red?style=social&amp;logo=LinkedIn&amp;logoColor=blue&amp;label=LinkedIn&amp;labelColor=blue&amp;color=blue" alt="Static Badge"></a>
         <br>
-        <a href="https://github.com/vsandeepkumar809"><img src="https://img.shields.io/badge/github.com%2Fvsandeepkumar809-black?style=social&amp;logo=GitHub&amp;logoColor=Black&amp;label=GitHub&amp;labelColor=Blue&amp;color=blue" alt="Static Badge"></a>
+        <a href="https://github.com/harikrishnan08101990"><img src="https://img.shields.io/badge/github.com%2Fharikrishnan08101990-black?style=social&amp;logo=GitHub&amp;logoColor=Black&amp;label=GitHub&amp;labelColor=Blue&amp;color=blue" alt="Static Badge"></a>
   
 
 # 🎯Objective
