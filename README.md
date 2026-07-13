@@ -5,7 +5,7 @@
 
 
 <p>
-        <img src="https://img.shields.io/badge/Sr.%20IT%20Technical%20Support%20Analyst%20-Blue?style=social&amp;logo=Company&amp;label=%F0%9F%8E%AD%20Role&amp;labelColor=Blue&amp;color=blue" alt="Static Badge">
+        <img src="https://img.shields.io/badge/Sr.%20.NET%20Full%20Stack%20Developer%20-Blue?style=social&amp;logo=Company&amp;label=%F0%9F%8E%AD%20Role&amp;labelColor=Blue&amp;color=blue" alt="Static Badge">
         <br>
         <a href="https://mail.google.com/mail/u/0/?fs=1&to=sndpkmr809@gmail.com&tf=cm"><img src="https://img.shields.io/badge/sndpkmr809%40gmail.com%20-firebrick?style=social&amp;logo=Gmail&amp;logoColor=firebrick&amp;label=Gmail&amp;labelColor=firebrick&amp;color=firebrick" alt="Static Badge"></a>
         <br>
