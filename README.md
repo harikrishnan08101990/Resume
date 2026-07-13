@@ -2,7 +2,6 @@
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/0b964545-0218-4394-99e0-7f17b265fac2" />
 </h1>
-https://www.linkedin.com/in/krishhari521/
 
 <p>
         <img src="https://img.shields.io/badge/Sr.%20.NET%20Full%20Stack%20Developer%20-Blue?style=social&amp;logo=Company&amp;label=%F0%9F%8E%AD%20Role&amp;labelColor=Blue&amp;color=blue" alt="Static Badge">
