@@ -47,11 +47,11 @@
 # 👨🏻‍💻IT Skills
 | Category          | Skills                                                                                                            |
 |-------------------|-------------------------------------------------------------------------------------------------------------------|
-| ![Static Badge](https://img.shields.io/badge/Ticketing%20Tools-%20purple?style=for-the-badge)  | Salesforce CRM, Microsoft Dynamics CRM, Service Now CRM.   |
-| ![Static Badge](https://img.shields.io/badge/Applications%20Used-salmon?style=for-the-badge)        | Basic Active Directory Navigation, AS400, Carbon Black Endpoint, Okta Admin, Tableau Admin, MFA, Citrix Director, JAMF Pro Basic Support, CyberArk (Password resets).| 
-| ![Static Badge](https://img.shields.io/badge/Operating%20Systems-mediumturquoise?style=for-the-badge) | **Windows**: 7, 8, 8.1, 10, 11.  **macOS**: Big Sur, Monterey, Ventura, Sonoma. **Android**, **IOS.** and **Ubuntu.**| 
-| ![Static Badge](https://img.shields.io/badge/Browsers%20Used-lavender?style=for-the-badge)     | MS Edge, Chrome, Firefox, Safari.|
-| ![Static Badge](https://img.shields.io/badge/Remote%20Tools-aqua?style=for-the-badge)      | Screen Meet, LogMeIn, TeamViewer, Any Desk.|
+| ![Static Badge](https://img.shields.io/badge/Languages-%20purple?style=for-the-badge)  | C#, SQL, JavaScript, Python   |
+| ![Static Badge](https://img.shields.io/badge/Framework-salmon?style=for-the-badge)        | .NET Core, .NET Framework, Entity Framework, Angular | 
+| ![Static Badge](https://img.shields.io/badge/Database-mediumturquoise?style=for-the-badge) | Microsoft SQL Server (2016, 2022)| 
+| ![Static Badge](https://img.shields.io/badge/Cloud-lavender?style=for-the-badge)     | Microsoft Azure (App Service, Storage, Azure Container Registry (ACR), Azure Kubernetes Service (AKS)), Azure DevOps, AWS Cloud Practitioner.|
+| ![Static Badge](https://img.shields.io/badge/Tools-aqua?style=for-the-badge)      | Visual Studio, IIS, ServiceNow,VS Code, JIRA, SVN.|
 
 # 👨🏻‍🎓Professional & Academic Qualification
 
