@@ -31,14 +31,14 @@
 
 # 🦾Skills & Abilities
 
-- Promptly responded to technical support inquiries via phone, email, and in-person, ensuring timely issue resolution.
-- Diagnosed and resolved hardware, software, and network issues using troubleshooting techniques to identify root causes.
-- Installed, configured, and maintained computer systems, software, and peripherals to optimize performance and functionality.
-- Maintained detailed records of technical solutions and interactions, ensuring accurate and timely documentation of support interactions, solutions, and troubleshooting steps. Contributed to efficient problem-solving and decision-making processes by preparing accurate reports.
-- Stayed updated on technological advancements and best practices to enhance skills and knowledge.
-- Worked as a Subject Matter Expert supporting 30+ team members on Microsoft Teams and Google Meet.
-- Actively supported team members in resolving technical issues and provided guidance when necessary.
-
+- Over 12 years of experience in software development, design, implementation, and support of enterprise applications using Microsoft Technologies.
+- Strong expertise in .NET Core, .NET Framework, C#, SQL Server, and MS Access for enterprise application development.
+- Extensive experience in database design, query optimization, and performance tuning.
+- Hands-on experience working in Agile Software Development Methodology.
+- Experience with Git-based version control and CI/CD pipeline implementation for automated application deployment and release management.
+- Experience in publishing, deploying, and hosting web applications on IIS and dedicated servers.
+- Strong hands-on experience with Open-Source CMS Technologies such as Magento, WordPress, and Joomla.
+- Quick learner with strong adaptability to new technologies, tools, and enterprise application environments.
 
 # 🤖Interests
 - I'm keen on the latest AI technology, especially in understanding how computers can understand and generate human-like text. 
