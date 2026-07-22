@@ -55,7 +55,7 @@
 |---------------|-------------|-------------------------------------------------|
 | B.Tech (Information Technology)    | June, 2009   | Anna University |
 | Diploma (Information Technology)  | March, 2006 | Directorate of Technical Education  |
-| X             | March, 2005 | Government Hr. Sec School |
+| 10th standard         | March, 2005 | Government Hr. Sec School |
 
 # 🏅Certifications
 
