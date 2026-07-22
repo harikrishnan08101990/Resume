@@ -57,9 +57,9 @@
 
 | Qualification | Period      | Institute/University                           |
 |---------------|-------------|-------------------------------------------------|
-| B.Sc.         | Dec, 2017   | Bhavan's Vivekananda College, Sainikpuri / Osmania University |
-| XII           | March, 2013 | BIEAP (Andhra Pradesh Board of Intermediate Education)  |
-| X             | March, 2011 | SSC (Secondary School Certificate) |
+| B.Tech (IT)         | June, 2009   | Anna University |
+| Diploma (Information Technology)  | March, 2006 | Directorate of Technical Education  |
+| X             | March, 2005 | Government Hr. Sec School |
 
 # 🏅Certifications
 
